@@ -24,6 +24,8 @@ When running rofi, run like this as shown below.
 rofi -show drun -theme ~/.config/rofi/config.rasi
 ```
 
+> If you want to change the decay style, open config.rasi, and lookup for the `@theme` directive.
+
 ## Gallery
 
 ### Decay
