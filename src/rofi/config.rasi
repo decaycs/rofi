@@ -15,7 +15,7 @@ configuration{
     display-window: " 﩯  Window";
 }
 
-@theme "themes/light-decay"
+@theme "themes/decay"
 
 element-text, element-icon , mode-switcher {
     background-color: inherit;
