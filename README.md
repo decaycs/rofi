@@ -32,7 +32,7 @@ rofi -show drun -theme ~/.config/rofi/config.rasi
 
 ### Dark Decay
 
-![dark-decay](./assets/darkdecay.png)
+![dark-decay](./assets/dark-decay.png)
 
 ### Decayce
 
@@ -40,7 +40,7 @@ rofi -show drun -theme ~/.config/rofi/config.rasi
 
 ### Light Decay
 
-![light-decay](./assets/lightdecay.png)
+![light-decay](./assets/light-decay.png)
 
 ## Thanks to
 
